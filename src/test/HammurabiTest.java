@@ -1,12 +1,14 @@
-package hammurabi;
+package hammurabi.src.test;
 
 import static org.junit.Assert.*;
 
+import hammurabi.src.main.Hammurabi;
+import org.junit.*;
 import org.junit.Before;
 import org.junit.Test;
 
 public class HammurabiTest {
-    
+
     Hammurabi ham;
     
     boolean about(double expected, double actual) {
