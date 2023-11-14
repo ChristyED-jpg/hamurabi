@@ -151,8 +151,14 @@ public class Hammurabi {
 	}
 
 	public int plagueDeaths(int i){
+		int random = (int) (Math.random() * 100) + 1;
+		if(random <= 15) {
+			return i / 2;
+		}
+		else{
+			return 0;
 
-		return i;
+		}
 	}
 	
 	public static void main(String[] args) throws IOException {
