@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c741cbd-2b95-4f91-88bc-6ccf675f30c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HammurabiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/HammurabiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/hamurabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hamurabi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Hammurabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Hammurabi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +43,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.Hammurabi">
     <configuration name="Hammurabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hammurabi.docs.Hammurabi" />
+      <option name="MAIN_CLASS_NAME" value="hammurabi.src.main.Hammurabi" />
       <module name="hamurabi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hammurabi.docs.*" />
+          <option name="PATTERN" value="hammurabi.src.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,7 +60,7 @@
       <module name="hamurabi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hammurabi.docs.*" />
+          <option name="PATTERN" value="hammurabi.src.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

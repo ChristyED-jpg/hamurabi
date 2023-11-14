@@ -150,8 +150,9 @@ public class Hammurabi {
 		System.out.println(answer);
 	}
 
-	public int plagueDeaths(int i) {
+	public int plagueDeaths(int i){
 
+		return i;
 	}
 	
 	public static void main(String[] args) throws IOException {
@@ -164,4 +165,19 @@ public class Hammurabi {
 	}
 
 
+	public int starvationDeaths(int i, int i1) {
+		return i;
+	}
+
+	public boolean uprising(int i, int i1) {
+		return false;
+	}
+
+	public int immigrants(int i, int i1, int i2) {
+		return i2;
+	}
+
+	public int harvest(int i) {
+		return 1;
+	}
 }
