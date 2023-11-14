@@ -41,7 +41,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.HammurabiTest.testPlagueDeaths1">
+  <component name="RunManager" selected="JUnit.HammurabiTest">
     <configuration name="Hammurabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hammurabi.src.main.Hammurabi" />
       <module name="hamurabi" />
@@ -68,6 +68,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HammurabiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hamurabi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hammurabi.src.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hammurabi.src.test" />
+      <option name="MAIN_CLASS_NAME" value="hammurabi.src.test.HammurabiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HammurabiTest.testPlagueDeaths1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hamurabi" />
       <extension name="coverage">
@@ -86,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HammurabiTest" />
         <item itemvalue="JUnit.HammurabiTest.testPlagueDeaths1" />
         <item itemvalue="Application.Hammurabi" />
         <item itemvalue="Application.hamurabi" />

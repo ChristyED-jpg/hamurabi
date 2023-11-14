@@ -180,4 +180,12 @@ public class Hammurabi {
 	public int harvest(int i) {
 		return 1;
 	}
+
+	public int grainEatenByRats(int i) {
+		return i;
+	}
+
+	public int newCostOfLand() {
+		return 11;
+	}
 }
